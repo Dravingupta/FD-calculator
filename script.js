@@ -13,3 +13,7 @@ function calculateMaturityAmount() {
 }
 
 document.getElementById('cal').addEventListener('click', calculateMaturityAmount);
+
+
+
+// thankyou for reading
